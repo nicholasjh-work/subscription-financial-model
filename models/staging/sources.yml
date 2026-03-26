@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: raw
+    tables:
+      - name: members
+        description: "KKBox member demographics and registration"
+      - name: transactions
+        description: "Subscription transactions: payments, renewals, cancellations"
+      - name: user_logs
+        description: "Daily engagement: songs played, duration, listening patterns"
+      - name: train
+        description: "Churn labels (Feb/Mar 2017 expiry cohorts)"
+      - name: marketing_spend
+        description: "Synthetic marketing spend by channel (enrichment layer)"

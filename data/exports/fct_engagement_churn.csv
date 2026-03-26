@@ -1,0 +1,5 @@
+engagement_tier,members,churn_rate_pct,avg_active_days,avg_daily_minutes,avg_completion_rate,avg_unique_songs
+dormant,51285,1.21,1,-319981494557.0,24.9,9
+light,94866,2.04,1,12.5,49.5,8
+regular,239996,3.05,4,40.4,62.6,47
+power_user,629597,3.47,6,48832312.6,73.6,220
