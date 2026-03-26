@@ -1,6 +1,6 @@
 # Subscription Financial Model
 
-**[Live Interactive Dashboard](https://nicholasjh-work.github.io/subscription-financial-model/)**
+**[Live Interactive Dashboard](https://submetrics.nicholashidalgo.com)**
 
 Driver-based financial analytics for a DTC membership business built on real subscription data from the KKBox music streaming platform (WSDM Kaggle Competition, 6.7M members, 21.5M transactions). Covers MRR decomposition, cohort retention, LTV/CAC unit economics, plan mix analysis, engagement-churn correlation, and forward MRR forecasting.
 
